@@ -11,3 +11,5 @@ logs
 # Build directories
 /dist
 /build
+/public
+/uploads
